@@ -79,7 +79,12 @@ body{
     height: 120px;
     border: solid 4px white;
     border-radius: 5%;
+    transition: all 0.7;
 }
 kbd{
     font-size: 36px;
+}
+.active{
+    background-color: rgb(114, 255, 19);
+    transform: scale(1.1);
 }
