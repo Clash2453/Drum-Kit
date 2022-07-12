@@ -65,7 +65,6 @@ body{
     width: 90vw;
     height: 450px;
     padding: 16px 32px;
-    border: solid 5px rgb(114, 255, 19);
 }
 .key{
     display: flex;
